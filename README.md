@@ -58,3 +58,6 @@ This single-page, highly interactive dashboard contains **7 core analytical visu
 *   [LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
 *   [GitHub] https://github.com/TusharAlBayzid
 *   Note: Download the `.pbix` file and open it in Power BI Desktop to experience the fully interactive cross-filtering capabilities of this dashboard.
+
+
+![Dashboard Preview](Website%20Performance%20Data%20Analysis%20Dashboard.png)
