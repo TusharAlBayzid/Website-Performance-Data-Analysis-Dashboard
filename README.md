@@ -60,4 +60,3 @@ This single-page, highly interactive dashboard contains **7 core analytical visu
 *   Note: Download the `.pbix` file and open it in Power BI Desktop to experience the fully interactive cross-filtering capabilities of this dashboard.
 
 
-![Dashboard Preview](Website%20Performance%20Data%20Analysis%20Dashboard.png)
